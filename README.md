@@ -15,4 +15,4 @@ $ npm run deploy
 ```
 
 ### Apps
-[Bitnami docker info](https://ghp.x2stech.vn/bitnami-docker-info)
+[Bitnami docker info](/bitnami-docker-info)
